@@ -109,7 +109,7 @@ function Index() {
   const [time_minute, setTime_minute] = useState(0);
   const [time_pause, setTime_pause] = useState(false);
   const [Game_over, setGame_over] = useState(false);
-  const [timeToPlay, setTimeToPlay] = useState(1);
+  const [timeToPlay, setTimeToPlay] = useState(2);
   const [alert_show, setAlert_show] = useState(false);
   const [alert_message, setAlert_message] = useState('');
 
